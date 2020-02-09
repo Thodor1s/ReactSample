@@ -1,0 +1,76 @@
+
+
+.Warnings {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.WarningWrapper{
+    padding-right: 20px;
+    display: inline-block;
+}
+
+.Warning {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 251px;
+    border: 2px solid #f9ef3f;
+}
+
+.WarningCapital1 {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 251px;
+    border: 2px solid #f9ef3f;
+}
+
+.WarningCapital2 {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 265px;
+    border: 2px solid #f9ef3f;
+}
+
+.WarningCapital3 {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 316px;
+    border: 2px solid #f9ef3f;
+}
+
+.WarningTime1 {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 397px;
+    border: 2px solid #f9ef3f;
+}
+
+.WarningTime2 {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 346px;
+    border: 2px solid #f9ef3f;
+}
+
+.WarningCapital4 {
+    color: #f9ef3f;
+    font-size: 20px;
+    font-weight: normal;
+    height: 30px;
+    width: 316px;
+    border: 2px solid #f9ef3f;
+}
+
+ 
